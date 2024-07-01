@@ -1,0 +1,6 @@
+@AbsaBank_HostAddress = http://localhost:5019
+
+GET {{AbsaBank_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
